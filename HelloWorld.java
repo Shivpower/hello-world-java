@@ -38,7 +38,7 @@ public class HelloWorld {
      System.out.println("jenkins");
      System.out.println("Hello, everyone this is my first pro");
     System.out.println("Hello, everyone welcome");
-    System.out.println("Hello, everyone welcome jenkins");
+    System.out.println("jenkins");
     System.out.println("Hello, everyone welcome jenkins");
     System.out.println("Hello, everyone welcome jenkins");
     System.out.println("Hello, everyone welcome jenkins");System.out.println("Hello, everyone welcome jenkins");
